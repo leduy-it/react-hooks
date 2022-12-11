@@ -1,3 +1,4 @@
+Here is my first mix project using React-Hooks, I will update my HTML/CSS later
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
